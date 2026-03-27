@@ -1,0 +1,16 @@
+# This is a YAML file
+name: Balogun Ibrahim
+age: 22
+country: Nigeria
+occupation: DevOps Engineer
+
+skills:
+  - Linux
+  - Docker
+  - Git
+  - Kubernetes
+
+address:
+  city: Lagos
+  area: Ikotun
+  country: Nigeria

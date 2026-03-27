@@ -1,0 +1,3 @@
+My name is Balogun Ibrahim
+I am learning Vim
+Vim is used on real servers

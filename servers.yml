@@ -1,0 +1,16 @@
+# Server configurations
+servers:
+  - name: webserver1
+    ip: 192.168.1.10
+    port: 80
+    status: running
+
+  - name: webserver2
+    ip: 192.168.1.11
+    port: 80
+    status: stopped
+
+  - name: database1
+    ip: 192.168.1.20
+    port: 3306
+    status: running
