@@ -20,6 +20,10 @@ created while learning Cloud DevOps engineering.
 - deployment.yaml - Kubernetes deployment file
 - service.yaml - Kubernetes service file
 
+## How to run scripts
+chmod +x scriptname.sh
+bash scriptname.sh
+
 ## Skills Demonstrated
 - Bash scripting
 - Linux administration
